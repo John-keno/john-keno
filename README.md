@@ -1,13 +1,3 @@
-<!-- ## Hi there 👋 -->
-
-<!--
-**John-keno/john-keno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--->
-
 # Hi there<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" alt="Hello" width="40"/>, I'm John – Full Stack Developer & Embedded Systems Engineer
 
 Welcome to my GitHub! I'm a passionate developer specializing in full stack web development and embedded systems engineering. Whether it's crafting sleek front-end interfaces or building rock-solid backend services, I bring ideas to life through code.
