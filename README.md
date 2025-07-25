@@ -39,6 +39,8 @@ Welcome to my GitHub! I'm a passionate developer specializing in full stack web 
 
 ## 📈 Stats
 
+![Profile views](https://komarev.com/ghpvc/?username=john-keno)
+
 | **📈 GitHub Stats**                                                          | **🔥 Streak Stats**                                                                    |
 |---------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-keno&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=john-keno&theme=tokyonight) |
